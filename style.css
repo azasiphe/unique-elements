@@ -1,0 +1,47 @@
+body{
+    background-color: salmon;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    text-align: center;
+   background-color:firebrick;
+   padding: 40px;
+   margin: 100px;
+   border-radius: 10px;
+   border-color: blue;
+
+}
+h1{
+    text-decoration: underline;
+    margin-bottom: 60px;
+}
+input{
+font-size: 17px;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+.text{
+    font-size: 20px;
+}
+button{
+    margin-bottom: 10px;
+    padding: 8px;
+    background-color: salmon;
+    border-color: blue;
+    border-radius: 10px;
+    margin: 10px;
+    margin: 0 0 0 16%;
+
+}
+button:hover{
+    background-color: firebrick;
+}
+
+#results{
+    font-weight: bold;
+    margin-top: 20px;
+}
